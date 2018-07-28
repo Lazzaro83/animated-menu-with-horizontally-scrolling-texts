@@ -1,0 +1,21 @@
+{
+  "name": "animated-menu-with-horizontaly-scrolling-segments",
+  "version": "1.0.0",
+  "description": "Animated menu with horizontaly scrolling segments",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash.map": "4.6.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "semantic-ui-react": "0.82.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
